@@ -4,7 +4,8 @@ class SwitchColor extends Component {
   render () {
     return (
       <div>
-        C
+        <input type="button" value="Red"/>
+        <input type="button" value="yellow"/>
       </div>
     )
   }
